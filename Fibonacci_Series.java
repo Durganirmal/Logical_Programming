@@ -1,6 +1,7 @@
 package com.Logical_Program;
+
 import java.util.Scanner;
-public class Fibonacci_Series {
+public class  Fibonacci_Series {
 
 	public static void main(String[] args) {
 		System.out.println("Enter the number");
